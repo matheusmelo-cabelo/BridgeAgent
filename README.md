@@ -52,4 +52,4 @@ Load the following directories into your model's memory:
 "I have loaded the BridgeAgent framework. Please act as the Architect and help me define my new project."
 
 ---
-*Created by Oratech*
+*Developed and maintained by Matheus Melo (Oratech)*
